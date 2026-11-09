@@ -1,65 +1,107 @@
-<h1 align="center">Hi, I'm Md. Shawn Shikder Sonet 👋</h1>
+# Hi, I'm Md. Shawn Shikder Sonet 👋
 
-<p align="center">
-  <b>Full-stack web developer</b> · Laravel · React · MySQL
-</p>
+### Full Stack Software Engineer | Laravel | React.js | Next.js
 
-<p align="center">
-  <a href="mailto:shawnshikder1182@gmail.com"><img src="https://img.shields.io/badge/Email-shawnshikder1182@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+8801732379393"><img src="https://img.shields.io/badge/Phone-01732379393-2EA44F?logo=phone&logoColor=white" alt="Phone"></a>
-  <a href="https://github.com/sonetseopage1"><img src="https://img.shields.io/badge/GitHub-sonetseopage1-181717?logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+I am a passionate Full Stack Software Engineer from Bangladesh with **5 years of professional experience** building modern, scalable, and business-oriented web applications.
+
+I specialize in backend development with Laravel and PHP, while also having strong experience in frontend development using React.js and Next.js.
+
+I enjoy solving complex problems, designing efficient systems, and turning ideas into practical software solutions.
 
 ---
 
-## 👨‍💻 About me
+### 🚀 About Me
 
-I build web applications with **Laravel** on the backend and **React / Next.js** on the frontend. I enjoy designing clean REST APIs, responsive interfaces and real-time features, and I like projects that can be set up and run with a few clear steps.
+- 💻 Full Stack Software Engineer with 5 years of experience
+- 🔭 Building scalable web applications and RESTful APIs
+- ⚙️ Backend: Laravel, PHP, MySQL
+- 🎨 Frontend: React.js, Next.js, JavaScript
+- 🗄️ Database: MySQL, MongoDB
+- 🌱 Currently exploring DevOps, AWS, Python, and TypeScript
+- 🤝 Interested in challenging software engineering projects
+- 📍 Based in Dhaka, Bangladesh
 
-- 🔭 Currently working with Laravel, React, Next.js, Redux and MySQL
-- 🌱 Interested in real-time apps (Laravel Reverb), API design and clean UI with Tailwind CSS
-- 📫 Reach me at **shawnshikder1182@gmail.com** or **01732379393**
+---
 
-## 🛠️ Tech stack
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,redux,nodejs,mysql,tailwind,vite,git,github" alt="Tech stack">
-</p>
+**Backend Development**
 
-| Area | Tools |
-|------|-------|
-| **Backend** | PHP, Laravel (REST APIs, Sanctum, Reverb), Node.js |
-| **Frontend** | JavaScript, React, Next.js, Redux, Tailwind CSS, Vite |
-| **Database** | MySQL |
-| **Tools** | Git, GitHub, Composer, npm |
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## ⭐ Featured project
+**Frontend Development**
 
-### [Small E-commerce Management](https://github.com/sonetseopage1/small_ecommerce_management_csn)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-A multi-shop e-commerce system: an **admin panel** (shops, products, shop owners), **shop owners** who sell products from a shared catalog with their own price and details, and a **mobile-friendly storefront** for customers.
+**Database & Tools**
 
-**Laravel REST API · React · MySQL · Tailwind CSS**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<a href="https://github.com/sonetseopage1/small_ecommerce_management_csn">
-  <img src="https://raw.githubusercontent.com/sonetseopage1/small_ecommerce_management_csn/main/docs/screenshots/storefront-home.jpg" alt="Small E-commerce Management" width="700">
-</a>
+---
 
-## 📂 Other projects
+### 💼 Featured Projects
 
-| Project | Stack |
-|---------|-------|
-| [laravel_reverb_chatapp](https://github.com/sonetseopage1/laravel_reverb_chatapp) | Laravel, Reverb (real-time chat) |
-| [task_management_api](https://github.com/sonetseopage1/task_management_api) | PHP (REST API) |
-| [chat_app](https://github.com/sonetseopage1/chat_app) | JavaScript |
-| [nextjs-redux-boilerplate](https://github.com/sonetseopage1/nextjs-redux-boilerplate) | Next.js, Redux |
-| [school_attendance](https://github.com/sonetseopage1/school_attendance) | Laravel (Blade) |
-| [nilam_shop_server](https://github.com/sonetseopage1/nilam_shop_server) | JavaScript (server) |
+#### 1. TutorSheba – Online Tutor Management Platform
 
-## 📬 Let's connect
+A comprehensive tutor management platform connecting students, parents, and tutors.
 
-<p>
-  <a href="mailto:shawnshikder1182@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"></a>
-</p>
+**Key Features:**
+- Student and tutor registration with OTP verification
+- Tutor assignment and management system
+- Premium subscription and payment integration
+- Firebase Cloud Messaging notifications
+- CRM and Facebook Lead integration
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
+🔗 [Live Website](https://tutorsheba.com/)
+
+#### 2. SEOPAGE1 ERP – Enterprise Resource Planning
+
+An enterprise management system designed to streamline business operations and employee management.
+
+**Key Features:**
+- Employee and role management
+- Attendance and leave management
+- Reporting and analytics
+- Permission-based access control
+- Third-party integrations
+
+🔗 [Live ERP](https://erp.seopage1.net/)
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonet1182&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonet1182&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sonet1182&theme=tokyonight&hide_border=true)
+
+---
+
+### 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shawnshikdersonet.netlify.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/sonet1182)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnshikder1182@gmail.com)
+
+---
+
+### 💡 My Development Philosophy
+
+> Great software is not just about writing code. It's about solving real-world problems with clean architecture, maintainable code, and thoughtful engineering.
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
